@@ -99,7 +99,7 @@ PDF Oluşturulamıyor
 Matplotlib kütüphanesinin doğru yüklendiğinden emin olun
 Kaydetmek istediğiniz klasöre yazma izniniz olduğunu kontrol edin
 Teknik Destek
-Sorularınız için: alican.dogru@edgin.de
+Sorularınız için: ali.can.dgru10@gmail.com
 
 Versiyon Geçmişi
 v2.0 (Mevcut)
