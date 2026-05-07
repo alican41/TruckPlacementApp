@@ -2,14 +2,14 @@ TIR Yükleme Optimizasyon Sistemi
 Modern ve kullanıcı dostu PyQt6 arayüzü ile TIR yükleme optimizasyonu yapan profesyonel bir uygulama.
 
 Özellikler
-✅ Excel dosyalarından kutu verilerini okuma
-✅ 32 alanlı TIR için otomatik optimizasyon
-✅ İlk 10 alan için özel ağırlık kontrolü (max 5000 kg)
-✅ Yükseklik dengesi tabanlı yerleşim
-✅ Gerçek zamanlı ilerleme göstergesi
-✅ PDF rapor oluşturma
-✅ Görsel istatistik paneli
-✅ Modern ve şık kullanıcı arayüzü
+Excel dosyalarından kutu verilerini okuma
+32 alanlı TIR için otomatik optimizasyon
+İlk 10 alan için özel ağırlık kontrolü (max 5000 kg)
+Yükseklik dengesi tabanlı yerleşim
+Gerçek zamanlı ilerleme göstergesi
+PDF rapor oluşturma
+Görsel istatistik paneli
+Modern ve şık kullanıcı arayüzü
 
 Proje Yapısı
 truck_loader_app/
