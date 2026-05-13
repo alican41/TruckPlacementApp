@@ -29,7 +29,7 @@ Kurulum
 1. Python Kurulumu
 Python 3.8 veya üzeri sürüm gereklidir. Python.org adresinden indirin.
 
-2. Sanal Ortam Oluşturma (Önerilen)
+2. Sanal Ortam Oluşturma
 bash
 python -m venv venv
 
